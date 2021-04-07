@@ -4,7 +4,6 @@ streamlit==0.73.1
 base58==2.0.1
 xlrd
 openpyxl
-chromedriver_installer==2.4.2
 anaconda-client==1.7.2
 anaconda-navigator==1.9.12
 anaconda-project==0.8.3
@@ -12,3 +11,4 @@ requests
 pytest>=5.4
 seleniumbase>=1.45
 opencv-python>=4.3
+webencodings==0.5.1
