@@ -2,3 +2,5 @@ pandas==1.2.0
 selenium==3.141.0
 streamlit==0.73.1
 base58==2.0.1
+xlrd
+openpyxl
