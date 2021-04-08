@@ -9,5 +9,5 @@ pytest>=5.4
 opencv-python>=4.3
 webencodings==0.5.1
 path==13.1.0
-pathlib2 @ file:///opt/concourse/worker/volumes/live/de518564-0d9f-405e-472b-38136f0c2169/volume/pathlib2_1594381084269/work
+pathlib2 
 pathtools==0.1.2
