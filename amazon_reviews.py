@@ -39,10 +39,10 @@ if password == 'MS42':
 
     else:
         if K == "MS42":
-            driver = webdriver.Chrome('chromedriver 2.exe') # Connect to the Chrome Driver
+            driver = webdriver.Chrome() # Connect to the Chrome Driver
             driver.get('https://www.amazon.com/Shiseido-Ultimune-Power-Infusing-Concentrate/dp/B0126TMUMS/ref=cm_cr_arp_d_product_top?ie=UTF8')
         else:
-            driver = webdriver.Chrome('chromedriver 2.exe') # Connect to the Chrome Driver
+            driver = webdriver.Chrome() # Connect to the Chrome Driver
             driver.get(K)
 
         #time.sleep(3)
